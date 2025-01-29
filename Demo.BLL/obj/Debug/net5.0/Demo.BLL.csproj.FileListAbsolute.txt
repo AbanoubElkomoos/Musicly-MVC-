@@ -1,0 +1,60 @@
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.Up2Date
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.Up2Date
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\beboo\Downloads\09 MVC Enhancement\Demo\Demo MVC G03 Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.Up2Date
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+H:\كورسات\back end .net rout\02 C#\07 MVC\Abanoub_MVC1\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
